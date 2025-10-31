@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      node-csv:
+        specifier: ^0.1.2
+        version: 0.1.2
+
+packages:
+
+  node-csv@0.1.2:
+    resolution: {integrity: sha512-QA+1yt3/EU2nqNPP0WocDlwdV6e4ECXdmpfLlNHR1OERM/kuEJ63TAhGJqvMsxm2xyfQwtOX4BWJQMdd96WM4Q==}
+    engines: {node: '>=0.2.2'}
+
+snapshots:
+
+  node-csv@0.1.2: {}
